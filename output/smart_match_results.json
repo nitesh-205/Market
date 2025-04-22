@@ -1,0 +1,12 @@
+[
+  {
+    "vegetable": "Tomato",
+    "match": "Retailer1",
+    "score": 0.85
+  },
+  {
+    "vegetable": "Potato",
+    "match": "Retailer2",
+    "score": 0.9
+  }
+]
